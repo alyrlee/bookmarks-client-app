@@ -5,3 +5,5 @@ const BookmarksContext = React.createContext({
     addBokmark: () => {},
     deleteBookmark: () => {},
 })
+
+export default BookmarksContext
